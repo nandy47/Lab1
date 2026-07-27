@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful assistant."
+  },
+  {
+    "role": "user",
+    "content": "hello, how are you today"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello. I'm functioning properly, thank you for asking. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "What's 10 + 23"
+  },
+  {
+    "role": "assistant",
+    "content": "10 + 23 = 33."
+  }
+]
